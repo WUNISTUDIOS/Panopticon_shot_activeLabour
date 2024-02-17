@@ -5457,3 +5457,22 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.02.17-12.09.59:926][930]AssetCheck: New page: Asset Save: fresh_render
 [2024.02.17-12.09.59:927][930]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
 [2024.02.17-12.29.30:867][ 37]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.257 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15714 files in 17234 folders with total size 6678 MiB.
+[2024.02.17-12.49.11:115][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-12.49.11:143][653]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.17-12.49.11:177][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.02.17-12.49.11:185][653]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.17-12.49.11:186][653]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render684CE5A244ADA62BDA5D7786BFAE8340.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.17-12.49.11:192][653]LogFileHelpers: Saving map 'fresh_render' took 0.050
+[2024.02.17-12.49.11:201][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 40.4 sec)
+[2024.02.17-12.49.11:203][653]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.17-12.49.11:203][653]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.17-12.50.28:800][ 41]LogGeoCaStreaming: Tried to map a chunk (91) that is still being streamed in.
+[2024.02.17-12.50.28:844][ 42]LogGeoCaStreaming: Tried to map a chunk (88) that is still being streamed in.
+[2024.02.17-12.50.36:302][218]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 138.
+[2024.02.17-12.50.40:547][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.17-12.50.40:572][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sequences/firstTractTest" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/sequences/firstTractTest.uasset" SILENT=true
+[2024.02.17-12.50.40:577][479]LogSavePackage: Moving output files for package: /Game/sequences/firstTractTest
+[2024.02.17-12.50.40:578][479]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/firstTractTestABFD08D34971D066DB31A6AD2F143CB1.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/sequences/firstTractTest.uasset'
+[2024.02.17-12.50.40:585][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 40.4 sec)
+[2024.02.17-12.50.40:586][479]AssetCheck: New page: Asset Save: firstTractTest
+[2024.02.17-12.50.40:586][479]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/sequences/firstTractTest.firstTractTest
