@@ -5777,3 +5777,1184 @@ Unreal Editor may become unresponsive.
 [2024.02.18-22.02.33:984][263]AssetCheck: New page: Asset Save: fresh_render
 [2024.02.18-22.02.33:984][263]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
 [2024.02.18-22.05.09:737][324]LogViewport: Scene viewport resized to 477x269, mode Windowed.
+[2024.02.18-22.05.50:705][830]LogEditorViewport: Clicking Background
+[2024.02.18-22.07.49:356][314]LogEditorViewport: Clicking Background
+[2024.02.18-22.08.00:713][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.18-22.08.01:459][917]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.08.01:597][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.08.01:627][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.08.01:655][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.18-22.08.01:742][917]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.08.01:743][917]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render2C9494B84D79F7F96441848BEE196189.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.08.01:753][917]LogFileHelpers: Saving map 'fresh_render' took 0.127
+[2024.02.18-22.08.01:761][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 163 ms (total: 1:39 min)
+[2024.02.18-22.08.01:764][917]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.08.01:764][917]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.08.27:718][246]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.02.18-22.08.27:738][246]LogContentBrowser: Creating deferred item: NewFolder
+[2024.02.18-22.08.27:754][247]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.02.18-22.08.30:057][374]LogContentBrowser: Attempting asset rename: NewFolder -> Sequences
+[2024.02.18-22.08.30:066][374]LogContentBrowser: End creating deferred item NewFolder
+[2024.02.18-22.08.35:885][821]LogContentBrowser: Deferred new asset file creation: NewLevelSequence
+[2024.02.18-22.08.35:901][821]LogContentBrowser: Creating deferred item: NewLevelSequence
+[2024.02.18-22.08.35:973][823]LogContentBrowser: Renaming the item being created (Deferred Item: NewLevelSequence).
+[2024.02.18-22.08.47:619][481]LogContentBrowser: Attempting asset rename: NewLevelSequence -> Ocean_Zoom
+[2024.02.18-22.08.47:777][481]LogContentBrowser: End creating deferred item NewLevelSequence
+[2024.02.18-22.08.49:705][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.08.49:726][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.08.49:765][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.02.18-22.08.49:839][547]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.08.49:839][547]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render271923F2460DB50A3262E5BFC2D7F1EB.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.08.49:847][547]LogFileHelpers: Saving map 'fresh_render' took 0.121
+[2024.02.18-22.08.49:856][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 151 ms (total: 1:39 min)
+[2024.02.18-22.08.49:858][547]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.08.49:858][547]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.08.50:927][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.18-22.08.51:884][603]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.08.52:006][603]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.08.52:037][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.08.52:045][603]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.08.52:045][603]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomDF418A6F4E00D0F3658EEFBB965FE29F.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.08.53:071][603]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.06 sec (total: 1:40 min)
+[2024.02.18-22.08.53:072][603]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.08.53:072][603]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.08.53:967][652]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.08.57:370][783]LogViewport: Scene viewport resized to 477x269, mode Windowed.
+[2024.02.18-22.09.13:110][512]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.09.13:110][512]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-22.09.13:110][512]LogShaderCompilers: Display: Total job queries 15 943, among them cache hits 325 (2.04%)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Tracking 15 580 distinct input hashes that result in 10 899 distinct outputs (69.96%)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: RAM used: 172,80 MiB of 819,20 MiB budget. Usage: 21.09%
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Shaders Compiled: 15 580
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Jobs assigned 15 584, completed 15 580 (99.97%)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Average time worker was idle: 16.09 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Time job spent in pending queue: average 138.81 s, longest 467.28 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Job execution time: average 6.56 s, max 181.73 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Job life time (pending + execution): average 145.40 s, max 469.42
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Shader code size: average 25,253 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1148.48 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Jobs were issued in 2 509 batches (only local compilation was used), average 6.21 jobs/batch
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Average processing rate: 13.57 jobs/sec
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Total thread time: 11 833,94 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Total thread preprocess time: 432,562 s
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Percentage time preprocessing: 3.66%
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Effective parallelization: 10.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 6.08% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.89% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.28% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.63% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.51% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-22.09.13:111][512]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.09.13:791][532]LogD3D12RHI: Creating RTPSO with 234 shaders (0 cached, 1 new) took 32.46 ms. Compile time 27.34 ms, link time 5.02 ms.
+[2024.02.18-22.09.23:937][134]Cmd: TRANSACTION UNDO
+[2024.02.18-22.09.23:938][134]LogEditorTransaction: Undo Select Actors/Components
+[2024.02.18-22.09.24:072][135]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.09.25:850][199]Cmd: TRANSACTION UNDO
+[2024.02.18-22.09.25:850][199]LogEditorTransaction: Undo Add Component
+[2024.02.18-22.09.32:034][576]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 64.
+[2024.02.18-22.09.32:149][577]LogGeoCaStreaming: Tried to map a chunk (69) that is still being streamed in.
+[2024.02.18-22.09.32:185][578]LogGeoCaStreaming: Tried to map a chunk (71) that is still being streamed in.
+[2024.02.18-22.09.32:185][578]LogGeoCaStreaming: Tried to map a chunk (72) that is still being streamed in.
+[2024.02.18-22.09.32:219][579]LogGeoCaStreaming: Tried to map a chunk (73) that is still being streamed in.
+[2024.02.18-22.09.32:248][580]LogGeoCaStreaming: Tried to map a chunk (75) that is still being streamed in.
+[2024.02.18-22.09.40:795][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.09.40:837][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.09.40:896][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.02.18-22.09.40:975][842]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.09.40:976][842]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderB8C300C442F5D6C2A1558383855B6043.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.09.40:985][842]LogFileHelpers: Saving map 'fresh_render' took 0.149
+[2024.02.18-22.09.41:002][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 206 ms (total: 1:40 min)
+[2024.02.18-22.09.41:005][842]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.09.41:005][842]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.10.10:613][  9]Cmd: TRANSACTION UNDO
+[2024.02.18-22.10.10:614][  9]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.10.33:198][ 93]Cmd: TRANSACTION UNDO
+[2024.02.18-22.10.33:198][ 93]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.10.36:456][229]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.10.36:530][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.10.36:567][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.02.18-22.10.36:648][229]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.10.36:648][229]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderBDF693F749C65743F38C8A98CFC6EF4A.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.10.36:657][229]LogFileHelpers: Saving map 'fresh_render' took 0.127
+[2024.02.18-22.10.36:672][229]LogFileHelpers: InternalPromptForCheckoutAndSave took 216 ms (total: 1:41 min)
+[2024.02.18-22.10.36:674][229]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.10.36:674][229]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.10.40:487][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.10.40:507][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.10.40:514][407]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.10.40:514][407]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomC0FBB7B44B93B7DF883246A521C5CB9F.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.10.40:522][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 35 ms (total: 1:41 min)
+[2024.02.18-22.10.40:523][407]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.10.40:523][407]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.11.16:417][121]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 120.
+[2024.02.18-22.11.18:646][278]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 15.
+[2024.02.18-22.11.18:681][279]LogGeoCaStreaming: Tried to map a chunk (12) that is still being streamed in.
+[2024.02.18-22.11.18:722][280]LogGeoCaStreaming: Tried to map a chunk (8) that is still being streamed in.
+[2024.02.18-22.11.18:772][281]LogGeoCaStreaming: Tried to map a chunk (2) that is still being streamed in.
+[2024.02.18-22.11.24:410][502]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 0.
+[2024.02.18-22.11.24:443][503]LogGeoCaStreaming: Tried to map a chunk (0) that is still being streamed in.
+[2024.02.18-22.11.24:482][504]LogGeoCaStreaming: Tried to map a chunk (1) that is still being streamed in.
+[2024.02.18-22.11.24:530][505]LogGeoCaStreaming: Tried to map a chunk (2) that is still being streamed in.
+[2024.02.18-22.11.24:570][506]LogGeoCaStreaming: Tried to map a chunk (3) that is still being streamed in.
+[2024.02.18-22.11.47:100][584]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 0.
+[2024.02.18-22.11.47:132][585]LogGeoCaStreaming: Tried to map a chunk (0) that is still being streamed in.
+[2024.02.18-22.11.47:171][586]LogGeoCaStreaming: Tried to map a chunk (1) that is still being streamed in.
+[2024.02.18-22.11.47:207][587]LogGeoCaStreaming: Tried to map a chunk (2) that is still being streamed in.
+[2024.02.18-22.11.47:245][588]LogGeoCaStreaming: Tried to map a chunk (3) that is still being streamed in.
+[2024.02.18-22.11.50:637][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.11.50:668][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.11.50:673][729]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.11.50:673][729]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom398736A64384F7DB775586A646EC7B23.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.11.50:681][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1:41 min)
+[2024.02.18-22.11.50:682][729]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.11.50:682][729]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.12.02:479][306]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.12.03:211][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.12.03:211][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.12.03:374][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.12.03:374][306]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.12.03:661][306]LogViewport: Scene viewport resized to 316x308, mode Windowed.
+[2024.02.18-22.12.04:382][309]LogD3D12RHI: Creating RTPSO with 235 shaders (0 cached, 1 new) took 18.20 ms. Compile time 13.80 ms, link time 4.33 ms.
+[2024.02.18-22.12.04:982][316]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.12.10:541][446]LogViewport: Scene viewport resized to 316x309, mode Windowed.
+[2024.02.18-22.12.10:584][446]LogViewport: Scene viewport resized to 316x313, mode Windowed.
+[2024.02.18-22.12.10:619][446]LogViewport: Scene viewport resized to 316x320, mode Windowed.
+[2024.02.18-22.12.10:655][446]LogViewport: Scene viewport resized to 316x328, mode Windowed.
+[2024.02.18-22.12.10:716][446]LogViewport: Scene viewport resized to 316x336, mode Windowed.
+[2024.02.18-22.12.10:808][446]LogViewport: Scene viewport resized to 316x348, mode Windowed.
+[2024.02.18-22.12.10:846][446]LogViewport: Scene viewport resized to 316x352, mode Windowed.
+[2024.02.18-22.12.10:878][446]LogViewport: Scene viewport resized to 316x356, mode Windowed.
+[2024.02.18-22.12.10:920][446]LogViewport: Scene viewport resized to 316x361, mode Windowed.
+[2024.02.18-22.12.10:956][446]LogViewport: Scene viewport resized to 316x363, mode Windowed.
+[2024.02.18-22.12.11:059][446]LogViewport: Scene viewport resized to 316x364, mode Windowed.
+[2024.02.18-22.12.11:099][446]LogViewport: Scene viewport resized to 316x366, mode Windowed.
+[2024.02.18-22.12.11:135][446]LogViewport: Scene viewport resized to 316x369, mode Windowed.
+[2024.02.18-22.12.11:174][446]LogViewport: Scene viewport resized to 316x370, mode Windowed.
+[2024.02.18-22.12.11:229][446]LogViewport: Scene viewport resized to 316x369, mode Windowed.
+[2024.02.18-22.12.11:261][446]LogViewport: Scene viewport resized to 316x365, mode Windowed.
+[2024.02.18-22.12.11:296][446]LogViewport: Scene viewport resized to 316x359, mode Windowed.
+[2024.02.18-22.12.11:329][446]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.12.24:070][838]Cmd: TRANSACTION UNDO
+[2024.02.18-22.12.24:070][838]LogEditorTransaction: Undo Set Playback Range
+[2024.02.18-22.12.24:770][848]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.12.31:160][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.12.31:186][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.12.31:291][ 23]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.12.31:291][ 23]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large0DE99E514B36510E76BCE098DE388BCF.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.12.31:302][ 23]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1:41 min)
+[2024.02.18-22.12.31:363][ 23]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.12.31:363][ 23]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.12.39:746][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.12.39:777][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.12.39:869][272]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.12.39:870][272]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large7B84BCB14E5D25F9068BFE8A7F0CCDE0.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.12.39:879][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1:41 min)
+[2024.02.18-22.12.39:938][272]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.12.39:938][272]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.12.41:069][299]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.12.41:095][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.12.41:189][299]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.12.41:190][299]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large820F6B7F4015F65C26E20A99A801356E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.12.41:199][299]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 1:41 min)
+[2024.02.18-22.12.41:258][299]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.12.41:258][299]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.12.43:071][338]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.12.43:756][356]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.12.43:776][356]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.12.43:870][356]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.12.43:871][356]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large7DB306A84117E63976C78383E30E32E3.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.12.43:881][356]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1:41 min)
+[2024.02.18-22.12.43:940][356]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.12.43:940][356]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.13.03:767][918]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Total job queries 15 945, among them cache hits 325 (2.04%)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Tracking 15 585 distinct input hashes that result in 10 904 distinct outputs (69.96%)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: RAM used: 172,93 MiB of 819,20 MiB budget. Usage: 21.11%
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Shaders Compiled: 15 584
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Jobs assigned 15 584, completed 15 584 (100%)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Average time worker was idle: 16.09 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Time job spent in pending queue: average 138.81 s, longest 467.28 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Job execution time: average 6.56 s, max 181.73 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Job life time (pending + execution): average 145.37 s, max 469.42
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Shader code size: average 25,262 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1149.07 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Jobs were issued in 2 509 batches (only local compilation was used), average 6.21 jobs/batch
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Average processing rate: 13.56 jobs/sec
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Total thread time: 11 835,839 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Total thread preprocess time: 432,79 s
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Percentage time preprocessing: 3.66%
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Effective parallelization: 10.30 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 6.08% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.89% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.27% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.62% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.51% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-22.13.03:768][918]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.13.05:135][918]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large took 1.571981 sec (time since issued), 1.530128 sec (combined shader worker time).
+[2024.02.18-22.13.05:233][918]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.13.05:268][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.13.05:377][918]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.13.05:378][918]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large1632793B477FEBC93E8045884AA1F21D.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.13.05:387][918]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1:41 min)
+[2024.02.18-22.13.05:445][918]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.13.05:445][918]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.13.06:170][931]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.13.06:175][931]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.13.06:273][931]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.13.06:274][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.13.06:290][931]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.13.06:290][931]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.13.06:376][931]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.02.18-22.13.07:334][982]LogGeoCaStreaming: Tried to map a chunk (4) that is still being streamed in.
+[2024.02.18-22.13.07:395][984]LogGeoCaStreaming: Tried to map a chunk (3) that is still being streamed in.
+[2024.02.18-22.13.14:726][367]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 65.
+[2024.02.18-22.13.14:730][367]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 65.
+[2024.02.18-22.13.14:777][369]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 118.
+[2024.02.18-22.13.14:779][369]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 118.
+[2024.02.18-22.13.18:077][526]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 164.
+[2024.02.18-22.13.18:081][526]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 164.
+[2024.02.18-22.13.18:173][528]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 179.
+[2024.02.18-22.13.18:175][528]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 179.
+[2024.02.18-22.13.18:326][534]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 231.
+[2024.02.18-22.13.18:331][534]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 231.
+[2024.02.18-22.13.42:480][647]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 37.
+[2024.02.18-22.14.17:054][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.17:075][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.17:080][162]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.17:081][162]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomEBB4C77D4BF119F9248DED860D83D4BA.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.17:088][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1:41 min)
+[2024.02.18-22.14.17:089][162]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.17:089][162]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.29:822][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.29:849][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.29:854][836]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.29:855][836]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom451DA3B74776341BD97BA8A92269FF63.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.29:862][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1:41 min)
+[2024.02.18-22.14.29:863][836]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.29:863][836]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.34:622][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.34:651][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.34:658][ 75]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.34:658][ 75]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom8B7C8878425AC8563087329508D33951.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.34:666][ 75]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1:42 min)
+[2024.02.18-22.14.34:667][ 75]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.34:668][ 75]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.38:131][247]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.38:166][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.38:171][247]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.38:172][247]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom76807A1D4BE37CBD0960D884C293D833.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.38:179][247]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1:42 min)
+[2024.02.18-22.14.38:180][247]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.38:180][247]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.40:215][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.40:245][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.40:249][353]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.40:250][353]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom4662C5F44A378A33B8B1F8A963C69C63.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.40:257][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1:42 min)
+[2024.02.18-22.14.40:258][353]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.40:258][353]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.41:956][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.14.41:987][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.14.41:991][441]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.14.41:992][441]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom70597413484B5590495763A225E91972.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.14.42:000][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1:42 min)
+[2024.02.18-22.14.42:001][441]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.14.42:001][441]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.14.42:931][483]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 90.
+[2024.02.18-22.14.42:964][484]LogGeoCaStreaming: Tried to map a chunk (85) that is still being streamed in.
+[2024.02.18-22.14.43:008][485]LogGeoCaStreaming: Tried to map a chunk (76) that is still being streamed in.
+[2024.02.18-22.14.43:021][485]LogGeoCaStreaming: Tried to map a chunk (75) that is still being streamed in.
+[2024.02.18-22.14.43:057][486]LogGeoCaStreaming: Tried to map a chunk (64) that is still being streamed in.
+[2024.02.18-22.14.43:071][486]LogGeoCaStreaming: Tried to map a chunk (63) that is still being streamed in.
+[2024.02.18-22.14.57:685][176]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/GeometryCache/DefaultGeometryCacheAsset.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/DefaultAssets/GeometryCache/DefaultGeometryCacheAsset.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.15.01:401][430]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Blueprints/PreviewMat.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Blueprints/PreviewMat.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.15.01:401][430]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.15.01:401][430]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.15.01:401][430]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/ReorientedNormalsDemo.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/ReorientedNormalsDemo.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.15.01:667][440]LogD3D12RHI: Creating RTPSO with 236 shaders (0 cached, 1 new) took 12.16 ms. Compile time 8.74 ms, link time 3.34 ms.
+[2024.02.18-22.15.01:844][445]LogD3D12RHI: Creating RTPSO with 237 shaders (0 cached, 1 new) took 14.55 ms. Compile time 10.12 ms, link time 4.26 ms.
+[2024.02.18-22.15.01:891][445]LogMaterial: Display: Material /Game/VFX/NiagraRain/Rain_Large_WaterMat.Rain_Large_WaterMat needed to have new flag set bUsedWithGeometryCache !
+[2024.02.18-22.15.05:309][476]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 124.
+[2024.02.18-22.15.05:603][479]LogGeoCaStreaming: Tried to map a chunk (126) that is still being streamed in.
+[2024.02.18-22.15.05:739][480]LogGeoCaStreaming: Tried to map a chunk (128) that is still being streamed in.
+[2024.02.18-22.15.05:853][481]LogGeoCaStreaming: Tried to map a chunk (131) that is still being streamed in.
+[2024.02.18-22.15.05:954][482]LogGeoCaStreaming: Tried to map a chunk (133) that is still being streamed in.
+[2024.02.18-22.15.06:063][483]LogGeoCaStreaming: Tried to map a chunk (136) that is still being streamed in.
+[2024.02.18-22.15.06:160][484]LogGeoCaStreaming: Tried to map a chunk (138) that is still being streamed in.
+[2024.02.18-22.16.27:697][581]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 114.
+[2024.02.18-22.16.29:938][677]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 51.
+[2024.02.18-22.16.30:007][679]LogGeoCaStreaming: Tried to map a chunk (51) that is still being streamed in.
+[2024.02.18-22.16.54:924][627]LogGeoCaStreaming: Tried to map a chunk (15) that is still being streamed in.
+[2024.02.18-22.16.54:956][627]LogGeoCaStreaming: Tried to map a chunk (14) that is still being streamed in.
+[2024.02.18-22.17.04:345][ 22]LogGeoCaStreaming: Tried to map a chunk (21) that is still being streamed in.
+[2024.02.18-22.17.04:380][ 22]LogGeoCaStreaming: Tried to map a chunk (19) that is still being streamed in.
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Total job queries 16 139, among them cache hits 443 (2.74%)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Tracking 15 660 distinct input hashes that result in 10 954 distinct outputs (69.95%)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: RAM used: 174,61 MiB of 819,20 MiB budget. Usage: 21.32%
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Shaders Compiled: 15 659
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Jobs assigned 15 661, completed 15 659 (99.99%)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Average time worker was idle: 21.73 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Time job spent in pending queue: average 138.14 s, longest 467.28 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Job execution time: average 6.55 s, max 181.73 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Job life time (pending + execution): average 144.71 s, max 469.42
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Shader code size: average 25,352 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1165.99 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Jobs were issued in 2 562 batches (only local compilation was used), average 6.11 jobs/batch
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Average processing rate: 13.43 jobs/sec
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Total thread time: 11 980,927 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Total thread preprocess time: 437,22 s
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Percentage time preprocessing: 3.65%
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Effective parallelization: 10.28 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-22.17.04:986][ 46]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 6.01% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.82% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.21% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.57% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.45% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-22.17.04:987][ 46]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.17.24:114][874]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.17.24:329][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.17.24:329][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.17.24:410][874]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.17.24:410][874]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.17.24:520][874]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.17.25:337][884]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.17.40:802][550]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large took 0.155154 sec (time since issued), 0.086327 sec (combined shader worker time).
+[2024.02.18-22.17.40:887][550]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.17.40:924][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.17.41:019][550]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.17.41:019][550]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large4319686049F44D186241FA99D6979E04.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.17.41:028][550]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 1:42 min)
+[2024.02.18-22.17.41:088][550]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.17.41:088][550]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.17.42:986][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.02.18-22.17.43:759][610]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.17.43:934][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.17.43:952][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.17.43:979][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.18-22.17.44:047][610]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.17.44:048][610]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render0FB1C0A2435B4CD3A42D77BBFF1A1265.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.17.44:056][610]LogFileHelpers: Saving map 'fresh_render' took 0.104
+[2024.02.18-22.17.44:056][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.17.44:060][610]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.17.44:061][610]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomDA162A2943C3ED5E23B22B8D45BCB865.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.17.44:173][610]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large_WaterMat
+[2024.02.18-22.17.44:173][610]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large_WaterMat3671395E4B98101BCE4509BAE1047E37.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large_WaterMat.uasset'
+[2024.02.18-22.17.44:182][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 248 ms (total: 1:42 min)
+[2024.02.18-22.17.44:185][610]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.18-22.17.44:186][610]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.17.44:186][610]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.17.44:186][610]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VFX/NiagraRain/Rain_Large_WaterMat.Rain_Large_WaterMat
+[2024.02.18-22.17.45:305][648]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.17.45:309][648]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.17.45:390][648]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.17.45:390][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.17.45:405][648]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.17.45:405][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.17.45:442][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.02.18-22.17.46:157][686]LogGeoCaStreaming: Tried to map a chunk (45) that is still being streamed in.
+[2024.02.18-22.17.46:192][688]LogGeoCaStreaming: Tried to map a chunk (44) that is still being streamed in.
+[2024.02.18-22.17.46:225][689]LogGeoCaStreaming: Tried to map a chunk (42) that is still being streamed in.
+[2024.02.18-22.18.00:893][283]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.18.00:893][283]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Blueprints/PreviewMat.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Plugins/FX/Niagara/Content/Blueprints/PreviewMat.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.18.00:893][283]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.18.00:893][283]SourceControl: fatal: D:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset: 'D:/Program Files/Epic Games/UE_5.3/Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset' is outside repository at 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour'
+[2024.02.18-22.18.02:267][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.02.18-22.18.03:150][336]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.18.03:250][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.18.03:274][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.18.03:300][336]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.18-22.18.03:366][336]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.18.03:367][336]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render74CD121045A7F87F46BA938C1FBF4B5E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.18.03:375][336]LogFileHelpers: Saving map 'fresh_render' took 0.101
+[2024.02.18-22.18.03:385][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1:42 min)
+[2024.02.18-22.18.03:387][336]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.18.03:387][336]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.18.07:444][530]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.18.07:648][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.18.07:648][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.18.07:754][530]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.18.07:754][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.18.07:865][530]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.18.08:720][540]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.18.24:079][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.18-22.18.24:973][948]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.18.25:065][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.18.25:095][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.18.25:188][948]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.18.25:188][948]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large1B24397F4E00C4EB7BE0DFA17A82C89B.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.18.25:197][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 1:42 min)
+[2024.02.18-22.18.25:200][948]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.18.25:200][948]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.18.26:516][969]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.18.27:744][990]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.18.27:765][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.18.27:860][990]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.18.27:861][990]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeFBFBF4414527CF783C4332AEDEA09089.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.18.27:872][990]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1:42 min)
+[2024.02.18-22.18.27:932][990]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.18.27:932][990]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.19.00:456][863]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.19.02:823][892]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large took 1.491412 sec (time since issued), 1.420328 sec (combined shader worker time).
+[2024.02.18-22.19.02:912][892]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.19.02:942][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.19.03:038][892]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.19.03:039][892]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeF74141F94B7FBAF391FCB88BA013C2A2.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.19.03:048][892]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1:43 min)
+[2024.02.18-22.19.03:116][892]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.19.03:116][892]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.19.25:116][462]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.19.25:914][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.19.25:941][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.19.26:038][482]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.19.26:039][482]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large406B14D14B87C345A5FD03B9D76AC66B.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.19.26:048][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 1:43 min)
+[2024.02.18-22.19.26:107][482]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.19.26:107][482]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.19.37:507][785]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.19.38:088][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.19.38:117][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.19.38:213][800]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.19.38:214][800]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeA9FF3C474B2D5598E69BEA98C4EE21C9.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.19.38:224][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1:43 min)
+[2024.02.18-22.19.38:289][800]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.19.38:289][800]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.19.48:894][ 71]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.19.50:176][ 99]LogEditorViewport: Clicking Background
+[2024.02.18-22.19.52:433][158]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.19.52:463][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.19.52:557][158]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.19.52:558][158]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeB1C7446B498A7140D63A6B84D1427D3C.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.19.52:569][158]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1:43 min)
+[2024.02.18-22.19.52:629][158]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.19.52:629][158]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.20.00:140][350]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.20.00:144][350]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.20.00:221][350]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.20.00:222][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.20.00:237][350]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.20.00:237][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.20.00:285][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.02.18-22.20.01:155][393]LogGeoCaStreaming: Tried to map a chunk (74) that is still being streamed in.
+[2024.02.18-22.20.01:190][394]LogGeoCaStreaming: Tried to map a chunk (73) that is still being streamed in.
+[2024.02.18-22.20.01:216][395]LogGeoCaStreaming: Tried to map a chunk (71) that is still being streamed in.
+[2024.02.18-22.20.01:247][396]LogGeoCaStreaming: Tried to map a chunk (68) that is still being streamed in.
+[2024.02.18-22.20.01:273][396]LogGeoCaStreaming: Tried to map a chunk (64) that is still being streamed in.
+[2024.02.18-22.20.12:621][890]LogGeoCaStreaming: Tried to map a chunk (131) that is still being streamed in.
+[2024.02.18-22.20.12:651][891]LogGeoCaStreaming: Tried to map a chunk (134) that is still being streamed in.
+[2024.02.18-22.20.12:672][891]LogGeoCaStreaming: Tried to map a chunk (140) that is still being streamed in.
+[2024.02.18-22.20.12:701][892]LogGeoCaStreaming: Tried to map a chunk (149) that is still being streamed in.
+[2024.02.18-22.20.12:703][892]LogGeoCaStreaming: Tried to map a chunk (150) that is still being streamed in.
+[2024.02.18-22.20.12:724][893]LogGeoCaStreaming: Tried to map a chunk (159) that is still being streamed in.
+[2024.02.18-22.20.12:732][893]LogGeoCaStreaming: Tried to map a chunk (160) that is still being streamed in.
+[2024.02.18-22.20.12:761][894]LogGeoCaStreaming: Tried to map a chunk (173) that is still being streamed in.
+[2024.02.18-22.20.12:764][894]LogGeoCaStreaming: Tried to map a chunk (174) that is still being streamed in.
+[2024.02.18-22.20.12:797][895]LogGeoCaStreaming: Tried to map a chunk (184) that is still being streamed in.
+[2024.02.18-22.20.12:801][895]LogGeoCaStreaming: Tried to map a chunk (185) that is still being streamed in.
+[2024.02.18-22.20.12:823][896]LogGeoCaStreaming: Tried to map a chunk (191) that is still being streamed in.
+[2024.02.18-22.20.12:827][896]LogGeoCaStreaming: Tried to map a chunk (192) that is still being streamed in.
+[2024.02.18-22.20.23:660][455]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.20.23:869][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.20.23:870][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.20.23:937][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.20.23:937][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.20.24:053][455]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.20.24:931][465]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.20.39:841][870]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Total job queries 16 156, among them cache hits 448 (2.77%)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Tracking 15 674 distinct input hashes that result in 10 960 distinct outputs (69.92%)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: RAM used: 174,91 MiB of 819,20 MiB budget. Usage: 21.35%
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Shaders Compiled: 15 673
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Jobs assigned 15 673, completed 15 673 (100%)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Average time worker was idle: 21.79 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Time job spent in pending queue: average 138.03 s, longest 467.28 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Job execution time: average 6.55 s, max 181.73 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Job life time (pending + execution): average 144.58 s, max 469.42
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Shader code size: average 25,358 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1169.72 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Jobs were issued in 2 574 batches (only local compilation was used), average 6.09 jobs/batch
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Average processing rate: 13.40 jobs/sec
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Total thread time: 11 985,917 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Total thread preprocess time: 437,635 s
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Percentage time preprocessing: 3.65%
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Effective parallelization: 10.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 6.01% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.82% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.21% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-22.20.41:041][895]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.57% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-22.20.41:042][895]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.45% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-22.20.41:042][895]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.20.41:091][895]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large took 0.531997 sec (time since issued), 0.463654 sec (combined shader worker time).
+[2024.02.18-22.20.41:194][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.20.41:224][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.20.41:333][895]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.20.41:334][895]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large8B47FF0D428F659722E0588B7DEDA753.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.20.41:345][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1:43 min)
+[2024.02.18-22.20.41:423][895]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.20.41:423][895]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.20.42:498][915]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.20.42:502][915]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.20.42:582][915]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.20.42:582][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.20.42:597][915]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.20.42:597][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.20.42:635][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.02.18-22.20.43:569][959]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 124.
+[2024.02.18-22.20.50:377][185]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 197.
+[2024.02.18-22.21.04:815][812]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.21.05:020][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.21.05:020][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.21.05:107][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.21.05:107][812]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.21.05:211][812]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.21.06:491][822]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.21.08:450][856]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VFX/NiagraRain/Rain_Large_WaterMat.Rain_Large_WaterMat
+[2024.02.18-22.21.08:500][856]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.21.08:500][856]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.21.08:727][856]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.18-22.21.08:727][856]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.18-22.21.08:727][856]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-22.21.08:727][856]MaterialEditorStats: Shader Count: 0
+[2024.02.18-22.21.08:742][856]LogViewport: Scene viewport resized to 313x383, mode Windowed.
+[2024.02.18-22.21.08:995][858]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.02.18-22.21.08:995][858]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.18-22.21.08:995][858]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.18-22.21.08:995][858]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-22.21.08:995][858]MaterialEditorStats: Shader Count: 3
+[2024.02.18-22.21.14:961][ 68]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.18-22.21.14:961][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.18-22.21.14:961][ 68]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-22.21.14:961][ 68]MaterialEditorStats: Shader Count: 0
+[2024.02.18-22.21.15:691][ 88]LogMaterialEditor: Applying material Rain_Large_WaterMat
+[2024.02.18-22.21.15:929][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.18-22.21.16:279][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.18-22.21.16:415][ 89]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.02.18-22.21.16:415][ 89]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.18-22.21.16:415][ 89]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.18-22.21.16:415][ 89]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-22.21.16:415][ 89]MaterialEditorStats: Shader Count: 5
+[2024.02.18-22.21.17:021][ 97]LogMaterialEditor: Saving and Compiling material Rain_Large_WaterMat
+[2024.02.18-22.21.17:183][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.21.19:228][ 97]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2024.02.18-22.21.21:359][ 97]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 4.135501s (2.135501s overbudget)
+[2024.02.18-22.21.21:397][ 97]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large_WaterMat
+[2024.02.18-22.21.21:398][ 97]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large_WaterMat0A83AF2C4C48096266A4E69A6A3E7541.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large_WaterMat.uasset'
+[2024.02.18-22.21.21:407][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.22 sec (total: 1:47 min)
+[2024.02.18-22.21.21:408][ 97]AssetCheck: New page: Asset Save: Rain_Large_WaterMat
+[2024.02.18-22.21.21:409][ 97]LogContentValidation: Display: Validating /Script/Engine.Material /Game/VFX/NiagraRain/Rain_Large_WaterMat.Rain_Large_WaterMat
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: Base pass shader: 1128 instructions
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: Texture samplers: 6/16
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(0)
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-22.21.21:441][ 97]MaterialEditorStats: Shader Count: 83
+[2024.02.18-22.21.22:566][126]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.21.22:566][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.21.22:582][126]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.21.22:582][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.21.22:630][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.02.18-22.21.23:992][174]LogEditorViewport: Clicking Background
+[2024.02.18-22.21.26:066][263]LogSlate: Window 'Rain_Large_WaterMat' being destroyed
+[2024.02.18-22.21.26:071][263]LogSlate: Window 'Rain_Large_WaterMat' being destroyed
+[2024.02.18-22.21.26:087][263]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.21.26:087][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.22.22:711][938]Cmd: TRANSACTION UNDO
+[2024.02.18-22.22.22:712][938]LogEditorTransaction: Undo Rotate Elements
+[2024.02.18-22.22.56:967][475]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.22.56:999][475]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.22.57:028][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.02.18-22.22.57:107][475]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.22.57:107][475]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderF06B8998404982BC46AB5AA6481FBC3E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.22.57:116][475]LogFileHelpers: Saving map 'fresh_render' took 0.117
+[2024.02.18-22.22.57:143][475]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 1:48 min)
+[2024.02.18-22.22.57:145][475]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.22.57:145][475]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.22.58:240][517]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 158.
+[2024.02.18-22.22.58:277][518]LogGeoCaStreaming: Tried to map a chunk (156) that is still being streamed in.
+[2024.02.18-22.22.58:288][518]LogGeoCaStreaming: Tried to map a chunk (155) that is still being streamed in.
+[2024.02.18-22.22.58:324][519]LogGeoCaStreaming: Tried to map a chunk (153) that is still being streamed in.
+[2024.02.18-22.23.09:059][965]Cmd: TRANSACTION UNDO
+[2024.02.18-22.23.09:059][965]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.23.13:179][142]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.23.13:198][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.23.13:202][142]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.23.13:203][142]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomE5954F324C2A69116B5D81803CA25935.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.23.13:211][142]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1:48 min)
+[2024.02.18-22.23.13:211][142]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.23.13:212][142]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.23.16:788][308]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.23.16:814][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.23.16:819][308]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.23.16:819][308]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomD842F4DA467B27C88FA580977476DAE5.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.23.16:826][308]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:48 min)
+[2024.02.18-22.23.16:827][308]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.23.16:827][308]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.23.50:611][831]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 54.
+[2024.02.18-22.23.50:649][832]LogGeoCaStreaming: Tried to map a chunk (52) that is still being streamed in.
+[2024.02.18-22.23.50:697][833]LogGeoCaStreaming: Tried to map a chunk (50) that is still being streamed in.
+[2024.02.18-22.23.50:714][833]LogGeoCaStreaming: Tried to map a chunk (49) that is still being streamed in.
+[2024.02.18-22.24.00:765][208]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 170.
+[2024.02.18-22.24.00:795][209]LogGeoCaStreaming: Tried to map a chunk (173) that is still being streamed in.
+[2024.02.18-22.24.00:831][210]LogGeoCaStreaming: Tried to map a chunk (178) that is still being streamed in.
+[2024.02.18-22.24.00:870][211]LogGeoCaStreaming: Tried to map a chunk (185) that is still being streamed in.
+[2024.02.18-22.24.00:876][211]LogGeoCaStreaming: Tried to map a chunk (186) that is still being streamed in.
+[2024.02.18-22.24.13:216][790]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.24.13:419][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.24.13:419][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.24.13:512][790]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.24.13:512][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.24.13:631][790]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.24.14:620][800]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.24.22:398][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.24.22:421][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.24.22:536][966]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.24.22:537][966]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large99789D6945C10CDCC68113AD844E830B.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.24.22:545][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1:48 min)
+[2024.02.18-22.24.22:605][966]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.24.22:605][966]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.24.42:604][543]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.24.42:630][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.24.42:724][543]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.24.42:725][543]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeCF0ACEF740B3672B1FD47EB5CC8ECFC1.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.24.42:734][543]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 1:48 min)
+[2024.02.18-22.24.42:790][543]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.24.42:790][543]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.24.46:065][610]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.24.46:442][616]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.24.46:464][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.24.46:560][616]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.24.46:561][616]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_LargeC3B78CF4449E0F629D9A768EA801581E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.24.46:570][616]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1:48 min)
+[2024.02.18-22.24.46:634][616]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.24.46:634][616]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.25.08:607][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.25.08:633][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.25.08:726][ 88]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.25.08:727][ 88]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large6408D8A643F8F1E35D61D6A5F94DC1EE.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.25.08:736][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1:48 min)
+[2024.02.18-22.25.08:805][ 88]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.25.08:805][ 88]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.25.37:728][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.02.18-22.25.38:534][938]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.25.39:146][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.25.39:174][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.25.39:201][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.18-22.25.39:268][938]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.25.39:268][938]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render015C75FD40D80527C63FCAA184FBB3B5.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.25.39:276][938]LogFileHelpers: Saving map 'fresh_render' took 0.103
+[2024.02.18-22.25.39:277][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.25.39:379][938]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.25.39:380][938]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large708AE4E545D20CCE7ED3AA940976D84D.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.25.39:389][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 243 ms (total: 1:48 min)
+[2024.02.18-22.25.39:393][938]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.18-22.25.39:394][938]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.25.39:394][938]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.25.40:175][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.25.40:203][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.25.40:298][948]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.25.40:298][948]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large22D11F50469D840BB0205EB830C89B6C.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.25.40:307][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1:49 min)
+[2024.02.18-22.25.40:366][948]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.25.40:366][948]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.25.42:970][  0]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.25.42:974][  0]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.25.43:049][  0]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.25.43:051][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.25.43:065][  0]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.25.43:065][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.25.43:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.02.18-22.26.16:801][580]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.26.17:013][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.26.17:013][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.26.17:098][580]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-22.26.17:098][580]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-22.26.17:205][580]LogViewport: Scene viewport resized to 316x358, mode Windowed.
+[2024.02.18-22.26.18:144][590]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.26.38:066][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.02.18-22.26.38:819][ 42]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.26.38:904][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.26.38:929][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.26.39:023][ 42]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.26.39:023][ 42]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large4376F8D64AE022FC035357A6E4DDE7A9.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.26.39:032][ 42]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 1:49 min)
+[2024.02.18-22.26.39:035][ 42]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.26.39:035][ 42]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.27.17:308][371]57118_Rain_Large_MessageLog: System successfully compiled.
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Total job queries 16 253, among them cache hits 461 (2.84%)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Tracking 15 758 distinct input hashes that result in 11 007 distinct outputs (69.85%)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: RAM used: 178,37 MiB of 819,20 MiB budget. Usage: 21.77%
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Shaders Compiled: 15 757
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Jobs assigned 15 757, completed 15 757 (100%)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Average time worker was idle: 22.79 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Time job spent in pending queue: average 137.30 s, longest 467.28 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Job execution time: average 6.53 s, max 181.73 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Job life time (pending + execution): average 143.82 s, max 469.42
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Shader code size: average 25,598 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1177.15 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Jobs were issued in 2 620 batches (only local compilation was used), average 6.01 jobs/batch
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Average processing rate: 13.39 jobs/sec
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Total thread time: 12 031,896 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Total thread preprocess time: 440,561 s
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Percentage time preprocessing: 3.66%
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Effective parallelization: 10.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 5.98% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.79% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.19% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.55% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.43% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-22.27.19:169][383]LogShaderCompilers: Display: ================================================
+[2024.02.18-22.27.19:224][383]LogNiagara: Compiling System NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large took 1.579766 sec (time since issued), 1.505020 sec (combined shader worker time).
+[2024.02.18-22.27.19:336][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.27.19:357][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VFX/NiagraRain/Rain_Large" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset" SILENT=true
+[2024.02.18-22.27.19:451][383]LogSavePackage: Moving output files for package: /Game/VFX/NiagraRain/Rain_Large
+[2024.02.18-22.27.19:451][383]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Rain_Large3876F00F4658223281F4DE9BFE253A6D.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/VFX/NiagraRain/Rain_Large.uasset'
+[2024.02.18-22.27.19:460][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 1:49 min)
+[2024.02.18-22.27.19:518][383]AssetCheck: New page: Asset Save: Rain_Large
+[2024.02.18-22.27.19:518][383]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/VFX/NiagraRain/Rain_Large.Rain_Large
+[2024.02.18-22.27.20:033][394]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.27.20:037][394]LogSlate: Window 'Rain_Large' being destroyed
+[2024.02.18-22.27.20:118][394]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.27.20:118][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.27.20:132][394]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-22.27.20:132][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-22.27.20:175][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.02.18-22.27.58:000][ 34]LogEditorViewport: Clicking Background
+[2024.02.18-22.28.23:898][379]Cmd: TRANSACTION UNDO
+[2024.02.18-22.28.23:898][379]LogEditorTransaction: Undo Edit Intensity
+[2024.02.18-22.28.24:852][407]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.28.24:882][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.28.24:886][407]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.28.24:887][407]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom839D558C485590CDA67035A7678AA02D.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.28.24:904][407]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1:49 min)
+[2024.02.18-22.28.24:905][407]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.28.24:905][407]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.28.59:267][879]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.28.59:296][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.28.59:327][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.02.18-22.28.59:404][879]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.28.59:404][879]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render381986814A5F7DAADF108BA06B046BDF.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.28.59:412][879]LogFileHelpers: Saving map 'fresh_render' took 0.117
+[2024.02.18-22.28.59:420][879]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 1:49 min)
+[2024.02.18-22.28.59:423][879]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.28.59:423][879]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.29.31:232][327]Cmd: TRANSACTION UNDO
+[2024.02.18-22.29.31:232][327]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.30.04:121][783]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.30.04:142][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.30.04:147][783]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.30.04:147][783]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom48D94EE8435ABE481FE02496804154CA.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.30.04:155][783]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1:49 min)
+[2024.02.18-22.30.04:156][783]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.30.04:156][783]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.30.53:014][868]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 72.
+[2024.02.18-22.31.20:214][203]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.31.20:240][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.31.20:244][203]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.31.20:245][203]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom131039414BEDFF0355D134B7F4D819E7.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.31.20:253][203]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:49 min)
+[2024.02.18-22.31.20:254][203]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.31.20:254][203]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.31.52:738][699]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.31.52:766][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.31.52:796][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.18-22.31.52:869][699]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.31.52:869][699]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderB787E08344FE174C8B75D8A54162BA39.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.31.52:878][699]LogFileHelpers: Saving map 'fresh_render' took 0.112
+[2024.02.18-22.31.52:895][699]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1:49 min)
+[2024.02.18-22.31.52:897][699]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.31.52:898][699]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.31.59:482][997]LogEditorViewport: Clicking Background
+[2024.02.18-22.33.09:337][280]LogEditorViewport: Clicking Background
+[2024.02.18-22.33.20:260][786]LogEditorViewport: Clicking Background
+[2024.02.18-22.33.21:403][842]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.33.21:424][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.33.21:453][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.18-22.33.21:524][842]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.33.21:525][842]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderFC63A366424209A9EAFAA6AC5B073A5F.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.33.21:533][842]LogFileHelpers: Saving map 'fresh_render' took 0.110
+[2024.02.18-22.33.21:550][842]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 1:49 min)
+[2024.02.18-22.33.21:552][842]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.33.21:552][842]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.33.30:612][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.33.30:638][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.33.30:664][255]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.18-22.33.30:731][255]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.33.30:732][255]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderAA471FC642884711956A8DA5E7234C6A.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.33.30:740][255]LogFileHelpers: Saving map 'fresh_render' took 0.103
+[2024.02.18-22.33.30:780][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 1:50 min)
+[2024.02.18-22.33.30:782][255]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.33.30:782][255]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.33.35:570][430]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 128.
+[2024.02.18-22.33.35:574][430]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 127.
+[2024.02.18-22.33.35:607][431]LogGeoCaStreaming: Tried to map a chunk (124) that is still being streamed in.
+[2024.02.18-22.33.35:655][432]LogGeoCaStreaming: Tried to map a chunk (122) that is still being streamed in.
+[2024.02.18-22.33.35:698][433]LogGeoCaStreaming: Tried to map a chunk (120) that is still being streamed in.
+[2024.02.18-22.33.59:675][519]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.33.59:704][519]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.33.59:709][519]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.33.59:709][519]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom4C8A4ADE4001B5E5246AB386210664F7.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.33.59:717][519]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1:50 min)
+[2024.02.18-22.33.59:718][519]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.33.59:718][519]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.34.20:684][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.34.20:714][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.34.20:718][421]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.34.20:719][421]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom2EE26D924A4ADA40A8F878AF8AB2A730.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.34.20:727][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 1:50 min)
+[2024.02.18-22.34.20:728][421]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.34.20:728][421]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.34.27:301][715]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.34.27:327][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.34.27:331][715]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.34.27:332][715]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom197609F54244C3EE819A41876B90F2DE.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.34.27:339][715]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:50 min)
+[2024.02.18-22.34.27:340][715]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.34.27:340][715]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.35.04:071][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.35.04:092][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.35.04:119][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.18-22.35.04:190][401]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.35.04:191][401]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render1277D6F94FEB43F43CAD71B226E01CEE.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.35.04:199][401]LogFileHelpers: Saving map 'fresh_render' took 0.107
+[2024.02.18-22.35.04:216][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 1:50 min)
+[2024.02.18-22.35.04:217][401]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.35.04:217][401]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.35.04:998][433]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 32.
+[2024.02.18-22.35.15:032][812]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 182.
+[2024.02.18-22.35.17:586][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.35.17:614][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.35.17:619][912]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.35.17:619][912]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomC99ED3004154B1EE130BA7A0567EB8E4.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.35.17:627][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1:50 min)
+[2024.02.18-22.35.17:628][912]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.35.17:628][912]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.35.20:294][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.35.20:314][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.35.20:318][ 32]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.35.20:319][ 32]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom21E28EC8434449DEF7C09DA40E2D7642.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.35.20:326][ 32]LogFileHelpers: InternalPromptForCheckoutAndSave took 32 ms (total: 1:50 min)
+[2024.02.18-22.35.20:327][ 32]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.35.20:327][ 32]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.35.26:115][302]LogEditorViewport: Clicking Background
+[2024.02.18-22.35.42:107][ 81]LogEditorViewport: Clicking Background
+[2024.02.18-22.35.52:852][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.35.52:883][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.35.52:888][593]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.35.52:889][593]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomBF1559AE467E612352952099FC3BDDC6.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.35.52:896][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1:50 min)
+[2024.02.18-22.35.52:897][593]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.35.52:897][593]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.36.18:956][803]Cmd: TRANSACTION UNDO
+[2024.02.18-22.36.18:956][803]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.36.20:519][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.36.20:548][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.36.20:575][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.02.18-22.36.20:643][858]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.36.20:643][858]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render96D4E57041EEA7744F04849C66400360.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.36.20:651][858]LogFileHelpers: Saving map 'fresh_render' took 0.104
+[2024.02.18-22.36.20:686][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1:50 min)
+[2024.02.18-22.36.20:689][858]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.36.20:689][858]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.36.27:534][193]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.36.27:566][193]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.36.27:571][193]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.36.27:572][193]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom397BC34840305FA0552102BB577C23A4.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.36.27:579][193]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1:50 min)
+[2024.02.18-22.36.27:580][193]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.36.27:581][193]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.36.28:255][220]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 149.
+[2024.02.18-22.36.28:291][221]LogGeoCaStreaming: Tried to map a chunk (143) that is still being streamed in.
+[2024.02.18-22.36.28:303][221]LogGeoCaStreaming: Tried to map a chunk (142) that is still being streamed in.
+[2024.02.18-22.36.28:341][222]LogGeoCaStreaming: Tried to map a chunk (135) that is still being streamed in.
+[2024.02.18-22.36.28:354][222]LogGeoCaStreaming: Tried to map a chunk (134) that is still being streamed in.
+[2024.02.18-22.36.28:386][223]LogGeoCaStreaming: Tried to map a chunk (130) that is still being streamed in.
+[2024.02.18-22.44.56:003][ 33]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:50.532 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 26752 files in 27437 folders with total size 10129 MiB.
+[2024.02.18-22.51.26:117][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.51.26:147][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.51.26:152][258]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.51.26:153][258]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom4C046DD844DA9608DBF554A6084A604E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.51.26:161][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 1:50 min)
+[2024.02.18-22.51.26:162][258]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.51.26:162][258]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.51.50:168][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.51.50:194][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.51.50:199][374]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.51.50:199][374]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom5B4F8E95429AA092D5297AAC9B56A0E7.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.51.50:207][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1:50 min)
+[2024.02.18-22.51.50:208][374]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.51.50:208][374]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.51.51:275][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.18-22.51.52:090][427]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.51.52:191][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.51.52:211][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.51.52:239][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.18-22.51.52:306][427]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.51.52:307][427]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render861862514EEBD278102E83A56FDA7C4A.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.51.52:315][427]LogFileHelpers: Saving map 'fresh_render' took 0.104
+[2024.02.18-22.51.52:333][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 1:50 min)
+[2024.02.18-22.51.52:336][427]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.51.52:336][427]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.52.51:006][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.52.51:035][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.52.51:062][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.02.18-22.52.51:127][866]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.52.51:128][866]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_renderE713375348C9802DA2F9E4A675830B70.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.52.51:136][866]LogFileHelpers: Saving map 'fresh_render' took 0.101
+[2024.02.18-22.52.51:145][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1:50 min)
+[2024.02.18-22.52.51:146][866]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.52.51:146][866]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.52.53:356][960]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 71.
+[2024.02.18-22.52.53:390][961]LogGeoCaStreaming: Tried to map a chunk (65) that is still being streamed in.
+[2024.02.18-22.52.53:434][962]LogGeoCaStreaming: Tried to map a chunk (56) that is still being streamed in.
+[2024.02.18-22.52.53:443][962]LogGeoCaStreaming: Tried to map a chunk (55) that is still being streamed in.
+[2024.02.18-22.52.53:484][963]LogGeoCaStreaming: Tried to map a chunk (47) that is still being streamed in.
+[2024.02.18-22.52.53:499][963]LogGeoCaStreaming: Tried to map a chunk (46) that is still being streamed in.
+[2024.02.18-22.52.58:203][143]LogGeoCaStreaming: Tried to map an unavailabe non-requested chunk: 45.
+[2024.02.18-22.52.58:237][144]LogGeoCaStreaming: Tried to map a chunk (43) that is still being streamed in.
+[2024.02.18-22.52.58:279][145]LogGeoCaStreaming: Tried to map a chunk (40) that is still being streamed in.
+[2024.02.18-22.52.58:285][145]LogGeoCaStreaming: Tried to map a chunk (39) that is still being streamed in.
+[2024.02.18-22.52.58:323][146]LogGeoCaStreaming: Tried to map a chunk (35) that is still being streamed in.
+[2024.02.18-22.52.58:333][146]LogGeoCaStreaming: Tried to map a chunk (34) that is still being streamed in.
+[2024.02.18-22.53.53:452][649]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.53.53:479][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.53.53:483][649]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.53.53:484][649]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomBE257E2447792120C14AFF93080EABE2.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.53.53:492][649]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1:51 min)
+[2024.02.18-22.53.53:493][649]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.53.53:493][649]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.54.24:655][ 84]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.24:656][ 84]LogEditorTransaction: Undo Set Item Visibility
+[2024.02.18-22.54.25:066][ 94]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.25:066][ 94]LogEditorTransaction: Undo Set Item Visibility
+[2024.02.18-22.54.25:403][105]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.25:403][105]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.25:700][118]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.25:700][118]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.25:980][130]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.25:980][130]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.26:280][143]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.26:280][143]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.26:553][154]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.26:553][154]LogEditorTransaction: Undo Rotate Elements
+[2024.02.18-22.54.26:834][166]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.26:834][166]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.27:091][177]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.27:092][177]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.27:655][203]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.27:655][203]LogEditorTransaction: Undo Rotate Elements
+[2024.02.18-22.54.27:911][214]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.27:911][214]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.28:162][225]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.28:162][225]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.28:880][256]Cmd: TRANSACTION UNDO
+[2024.02.18-22.54.28:880][256]LogEditorTransaction: Undo Move Elements
+[2024.02.18-22.54.29:900][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.54.29:929][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.54.29:934][289]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.54.29:934][289]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom205A62E740E96EDD109DE4B3DC46AD14.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.54.29:951][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1:51 min)
+[2024.02.18-22.54.29:952][289]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.54.29:952][289]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.54.31:459][344]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.54.31:486][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-22.54.31:491][344]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-22.54.31:491][344]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomAE740121404B0DF87FD1029B6F1DF401.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-22.54.31:508][344]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1:51 min)
+[2024.02.18-22.54.31:509][344]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-22.54.31:509][344]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-22.54.32:603][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.18-22.54.33:326][393]LogSlate: Window 'Save Content' being destroyed
+[2024.02.18-22.54.33:432][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-22.54.33:452][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/fresh_render" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.18-22.54.33:479][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.18-22.54.33:547][393]LogSavePackage: Moving output files for package: /Game/fresh_render
+[2024.02.18-22.54.33:548][393]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render1BDA96544413BAD69F1E398710E30647.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/fresh_render.umap'
+[2024.02.18-22.54.33:556][393]LogFileHelpers: Saving map 'fresh_render' took 0.104
+[2024.02.18-22.54.33:563][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 1:51 min)
+[2024.02.18-22.54.33:565][393]AssetCheck: New page: Asset Save: fresh_render
+[2024.02.18-22.54.33:565][393]LogContentValidation: Display: Validating /Script/Engine.World /Game/fresh_render.fresh_render
+[2024.02.18-22.54.57:617][496]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.18-23.05.16:172][351]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.18-23.05.57:475][817]LogEditorViewport: Clicking Background
+[2024.02.18-23.06.36:208][441]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/VFX/Mist_Sheets/Mist_Sheet.Mist_Sheet
+[2024.02.18-23.06.36:243][441]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-23.06.36:243][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-23.06.36:504][441]MaterialEditorStats: Texture samplers: 0/16
+[2024.02.18-23.06.36:504][441]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.18-23.06.36:504][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-23.06.36:504][441]MaterialEditorStats: Shader Count: 0
+[2024.02.18-23.06.36:516][441]LogViewport: Scene viewport resized to 313x383, mode Windowed.
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: ================================================
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Total job queries 16 256, among them cache hits 464 (2.85%)
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Tracking 15 758 distinct input hashes that result in 11 007 distinct outputs (69.85%)
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: RAM used: 178,37 MiB of 819,20 MiB budget. Usage: 21.77%
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Shaders Compiled: 15 757
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Jobs assigned 15 757, completed 15 757 (100%)
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Average time worker was idle: 22.79 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Time job spent in pending queue: average 137.30 s, longest 467.28 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Job execution time: average 6.53 s, max 181.73 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Job life time (pending + execution): average 143.82 s, max 469.42
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Shader code size: average 25,598 KiB, min 140 B, max 582,824 KiB
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1177.15 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Jobs were issued in 2 620 batches (only local compilation was used), average 6.01 jobs/batch
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Average processing rate: 13.39 jobs/sec
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Total thread time: 12 031,896 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Total thread preprocess time: 440,561 s
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Percentage time preprocessing: 3.66%
+[2024.02.18-23.06.36:611][442]LogShaderCompilers: Display: Effective parallelization: 10.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                                               FPathTracingRG (compiled    8 times, average 33.70 sec, max 42.12 sec, min 25.69 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    8 times, average 9.37 sec, max 38.62 sec, min 2.05 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   20 times, average 8.09 sec, max 28.72 sec, min 0.44 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    2 times, average 7.62 sec, max 14.63 sec, min 0.61 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled   18 times, average 5.57 sec, max 11.20 sec, min 0.76 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:          FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs - 5.98% of total time (compiled  768 times, average 0.94 sec, max 6.54 sec, min 0.10 sec)
+[2024.02.18-23.06.36:616][442]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 5.79% of total time (compiled  256 times, average 2.72 sec, max 12.07 sec, min 0.15 sec)
+[2024.02.18-23.06.36:617][442]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 5.19% of total time (compiled  256 times, average 2.44 sec, max 6.15 sec, min 0.30 sec)
+[2024.02.18-23.06.36:617][442]LogShaderCompilers: Display:                                             FDeferredLightPS - 4.55% of total time (compiled  224 times, average 2.44 sec, max 6.84 sec, min 0.46 sec)
+[2024.02.18-23.06.36:617][442]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.43% of total time (compiled  512 times, average 1.04 sec, max 2.93 sec, min 0.26 sec)
+[2024.02.18-23.06.36:617][442]LogShaderCompilers: Display: ================================================
+[2024.02.18-23.06.36:670][443]MaterialEditorStats: Base pass vertex shader: 287 instructions
+[2024.02.18-23.06.36:670][443]MaterialEditorStats: Texture samplers: 4/16
+[2024.02.18-23.06.36:670][443]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.02.18-23.06.36:670][443]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.02.18-23.06.36:670][443]MaterialEditorStats: Shader Count: 3
+[2024.02.18-23.07.22:937][201]LogSlate: Window 'Mist_Sheet' being destroyed
+[2024.02.18-23.07.22:941][201]LogSlate: Window 'Mist_Sheet' being destroyed
+[2024.02.18-23.07.22:965][201]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-23.07.22:965][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-23.08.11:177][566]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/VFX/Mist_Sheets/Mist_Sheet_Inst.Mist_Sheet_Inst
+[2024.02.18-23.08.11:178][566]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.02.18-23.08.11:179][566]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.18-23.08.11:406][566]LogViewport: Scene viewport resized to 604x771, mode Windowed.
+[2024.02.18-23.08.43:879][990]LogSlate: Window 'Mist_Sheet_Inst' being destroyed
+[2024.02.18-23.08.43:884][990]LogSlate: Window 'Mist_Sheet_Inst' being destroyed
+[2024.02.18-23.08.43:902][990]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.02.18-23.08.43:902][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.18-23.12.12:249][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.12.12:279][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.12.12:284][ 37]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.12.12:285][ 37]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom9310A8EA4DF84E79821EE69D973C9373.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.12.12:294][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 44 ms (total: 1:51 min)
+[2024.02.18-23.12.12:296][ 37]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.12.12:296][ 37]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.12.24:869][679]LogEditorViewport: Clicking Background
+[2024.02.18-23.12.31:743][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.12.31:767][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.12.31:772][ 37]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.12.31:773][ 37]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom267DEE024A02FCC8B0F22F8F44BB1EF5.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.12.31:782][ 37]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:51 min)
+[2024.02.18-23.12.31:783][ 37]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.12.31:783][ 37]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.12.41:883][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.12.41:909][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.12.41:913][548]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.12.41:914][548]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom0155EA4D4129525A52293CBA9749FA80.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.12.41:922][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:51 min)
+[2024.02.18-23.12.41:923][548]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.12.41:923][548]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.12.46:208][743]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.12.46:234][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.12.46:239][743]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.12.46:239][743]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomAE93B0274E6351D5987993A13A7E0829.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.12.46:247][743]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:51 min)
+[2024.02.18-23.12.46:248][743]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.12.46:248][743]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.13.11:633][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.13.11:660][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.13.11:667][102]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.13.11:668][102]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomAF341D7F486F806628CFA184B21EC1AF.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.13.11:675][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1:51 min)
+[2024.02.18-23.13.11:676][102]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.13.11:676][102]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.13.14:623][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.13.14:648][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.13.14:654][271]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.13.14:654][271]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomEB32A0F64ED7319C8262B0BB49B7040F.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.13.14:662][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 1:51 min)
+[2024.02.18-23.13.14:663][271]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.13.14:663][271]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.13.19:918][643]Cmd: CAMERA ALIGN
+[2024.02.18-23.13.29:279][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.13.29:299][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.13.29:304][141]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.13.29:305][141]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomCFD55582469EEFD1B8A6058016975825.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.13.29:313][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 33 ms (total: 1:51 min)
+[2024.02.18-23.13.29:313][141]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.13.29:314][141]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.13.35:336][448]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.13.35:365][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.13.35:370][448]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.13.35:371][448]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom25867C2A4F10431786C9B1BFF62FFE06.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.13.35:378][448]LogFileHelpers: InternalPromptForCheckoutAndSave took 41 ms (total: 1:51 min)
+[2024.02.18-23.13.35:379][448]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.13.35:379][448]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.13.40:595][726]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.13.40:613][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.13.40:617][726]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.13.40:618][726]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_Zoom58A753354258C75F34BE1F89C90C877D.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.13.40:627][726]LogFileHelpers: InternalPromptForCheckoutAndSave took 31 ms (total: 1:51 min)
+[2024.02.18-23.13.40:628][726]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.13.40:628][726]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
+[2024.02.18-23.14.33:593][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.02.18-23.14.33:692][ 63]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/fresh_render_Auto1
+[2024.02.18-23.14.33:693][ 63]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/fresh_render_Auto10D5631E242AACCF1A4299283F92C4C1E.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Autosaves/Game/fresh_render_Auto1.umap'
+[2024.02.18-23.14.33:699][ 63]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Autosaves/Game/fresh_render_Auto1.umap is in the /Temp path, will not scan.
+[2024.02.18-23.14.33:699][ 63]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/fresh_render' took 0.122
+[2024.02.18-23.14.33:699][ 63]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2024.02.18-23.14.56:111][150]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.18-23.14.56:135][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/Ocean_Zoom" FILE="C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset" SILENT=true
+[2024.02.18-23.14.56:141][150]LogSavePackage: Moving output files for package: /Game/Sequences/Ocean_Zoom
+[2024.02.18-23.14.56:142][150]LogSavePackage: Moving 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Saved/Ocean_ZoomAB42A2E14706F959318D3E81C33FD854.tmp' to 'C:/Users/user/Documents/Unreal Projects/Panopticon_shot_activeLabour/Content/Sequences/Ocean_Zoom.uasset'
+[2024.02.18-23.14.56:151][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 39 ms (total: 1:51 min)
+[2024.02.18-23.14.56:152][150]AssetCheck: New page: Asset Save: Ocean_Zoom
+[2024.02.18-23.14.56:152][150]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Ocean_Zoom.Ocean_Zoom
